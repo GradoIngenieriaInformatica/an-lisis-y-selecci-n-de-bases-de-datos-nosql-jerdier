@@ -1,1 +1,1 @@
-Base de datos de series temporales | Optimizada para almacenar y analizar transacciones históricas por tiempo
+Base de datos de series temporales | Optimizada para almacenar y analizar transacciones históricas por tiempo.

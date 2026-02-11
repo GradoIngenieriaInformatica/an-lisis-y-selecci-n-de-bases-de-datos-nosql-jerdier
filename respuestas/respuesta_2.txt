@@ -1,1 +1,1 @@
-Tabla hash distribuida | Permite acceso rápido por clave única en múltiples nodos
+Tabla hash distribuida | Permite acceso rápido por clave única en múltiples nodos.

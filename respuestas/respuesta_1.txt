@@ -1,1 +1,1 @@
-Grafo no dirigido | Modela relaciones bidireccionales y permite calcular grados de separación
+Grafo no dirigido | Modela relaciones bidireccionales y permite calcular grados de separación.
