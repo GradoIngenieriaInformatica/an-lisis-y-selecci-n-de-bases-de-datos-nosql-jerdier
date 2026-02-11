@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Tabla hash distribuida | Permite acceso rápido por clave única en múltiples nodos
